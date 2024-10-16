@@ -7,5 +7,5 @@
 ### random 
 # Pre-requisites
 ### Functions
-### List manupulations
-### Exceptions
+### List manipulations
+### Exception Handling
